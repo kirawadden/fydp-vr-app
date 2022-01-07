@@ -1,0 +1,68 @@
+﻿<Properties StartupConfiguration="{13E663C9-68E6-007E-8AC1-0FDC92FB706E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.cinemachine@2.8.3/Runtime/Behaviours/CinemachineBrain.cs">
+    <Files>
+      <File FileName="Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" Line="33" Column="2" />
+      <File FileName="Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" Line="23" Column="61" />
+      <File FileName="Assets/StarterAssets/TutorialInfo/Scripts/Readme.cs" />
+      <File FileName="Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" Line="93" Column="1" />
+      <File FileName="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs" Line="14" Column="25" />
+      <File FileName="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" Line="27" Column="1" />
+      <File FileName="Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" Line="23" Column="10" />
+      <File FileName="Library/PackageCache/com.unity.cinemachine@2.8.3/Runtime/Core/CinemachineVirtualCameraBase.cs" Line="517" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" Line="15" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.cinemachine@2.8.3/Runtime/Behaviours/CinemachineBrain.cs" Line="322" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.inputsystem@1.1.1/InputSystem/NativeInputRuntime.cs" Line="114" Column="1" />
+      <File FileName="Library/PackageCache/com.unity.cinemachine@2.8.3/Runtime/Core/UpdateTracker.cs" Line="130" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vr-app-again" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="StarterAssets" expanded="True">
+                <Node name="FirstPersonController" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="FirstPersonController.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="InputSystem" expanded="True" />
+                <Node name="Mobile" expanded="True">
+                  <Node name="Prefabs" expanded="True" />
+                  <Node name="Scripts" expanded="True">
+                    <Node name="CanvasInputs" expanded="True" />
+                    <Node name="Utilities" expanded="True" />
+                    <Node name="VirtualInputs" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c0e4ca5-35b7-408b-8491-ef3eae685515" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" relfile="Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" line="20" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" relfile="Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" line="25" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" relfile="Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" line="30" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" relfile="Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" line="13" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" relfile="Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" line="18" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" relfile="Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" line="87" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" relfile="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" line="26" column="1" />
+      <Breakpoint file="/Users/kirawadden/FYDP/vr-app-again/Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs" relfile="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
