@@ -1,0 +1,4 @@
+#Sun Dec 19 21:00:49 PST 2021
+base.0=/Users/kirawadden/FYDP/vr-app-again/Library/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
